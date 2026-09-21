@@ -29,7 +29,7 @@
     "paused.resume": "Hervatten",
     "paused.title": "Onderbroken",
     "reset": "Herstellen",
-    "results.dead": "Spel is uit",
+    "results.dead": "Spel is voorbij.",
     "results.restart": "Opnieuw",
     "results.sprint.time": "Tijd: %.3fs",
     "results.sprint.times": "Tijden",
