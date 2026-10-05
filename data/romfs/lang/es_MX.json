@@ -1,11 +1,11 @@
 {
-    "back": "Back",
+    "back": "Atrás",
     "cancel": "Cancelar",
     "exit": "Salir",
     "keybindselect.harddrop": "Caída Rápida",
     "keybindselect.hold": "Control",
-    "keybindselect.left": "Izquierdo",
-    "keybindselect.right": "Right",
+    "keybindselect.left": "Izquierda",
+    "keybindselect.right": "Derecha",
     "keybindselect.rotateccw": "Rotate CCW",
     "keybindselect.rotatecw": "Rotate CW",
     "keybindselect.softdrop": "Suave gota",
@@ -27,11 +27,11 @@
     "paused.resume": "Resume",
     "paused.title": "Pausa",
     "reset": "Reset",
-    "results.dead": "Cambio de juego",
+    "results.dead": "Fin del juego",
     "results.restart": "--restart",
     "results.sprint.time": "Tiempo: %.3fs",
     "results.sprint.times": "Times",
-    "save": "Grabar",
+    "save": "Guardar",
     "sprint.info": "Lines: %d/%d\nTime: %.3fs\nPPS: %.3f",
     "sprint.times.title": "Juegos"
 }
